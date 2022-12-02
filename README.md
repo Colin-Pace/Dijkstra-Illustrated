@@ -1,0 +1,1 @@
+A vanilla JavaScript game that illustrates Dijkstra's algorithm. The game is to use the up, down, left, and right keys to move steps away from the green block that follows the user's blue block. The path that the green block takes is determined by Dijkstra's algorithm. The board is a wrap around board, which enables the user to move from side to side relatively easily.
